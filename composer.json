@@ -1,9 +1,14 @@
 {
     "name": "lxark/init-project-git",
     "description": "Init-project git just host useful files to initialize a project",
-    "require": {
-        "php": ">=5.3.3",
-        "symfony/finder": "2.4.*@dev",
-        "symfony/filesystem": "2.4.*@dev"
-    }
+    "keywords": ["git", "hooks"],
+    "time": "2013-07-26",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alix Chaysinh",
+            "email": "alix.chaysinh@gmail.com",
+            "role": "Developer"
+        }
+    ]
 }
